@@ -114,17 +114,6 @@
        
     }
 
-    .skills {
-        width: 300px;
-        height: 300px;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        margin-left: 50px;
-        text-align: center;
-        margin-top: 50px;
-    }
-
 }
 
 
@@ -138,16 +127,6 @@
   }
 
 
-  .skills {
-    width: 300px;
-    height: 300px;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    margin-left: 50px;
-    text-align: center;
-    margin-top: 50px;
-}
 
 }
 
@@ -160,19 +139,8 @@
     display: grid;
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
        
-
   }
 
-  .skills {
-    width: 300px;
-    height: 300px;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    margin-left: 50px;
-    text-align: center;
-    margin-top: 50px;
-}
 
 }
 
